@@ -165,7 +165,7 @@ const Customizer = () => {
                 handleClick={() => handleActiveFilterTab(tab.name)}
               />
             ))}
-          </motion.div>
+          </motion.div>   
         </>
       )}
     </AnimatePresence>
